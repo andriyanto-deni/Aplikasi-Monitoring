@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731487690268",
+    "firebase_url": "https://latihan-upload-data-nodemcu-default-rtdb.firebaseio.com",
+    "project_id": "latihan-upload-data-nodemcu",
+    "storage_bucket": "latihan-upload-data-nodemcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731487690268:android:1b02c7d8e4a099cad189d9",
+        "android_client_info": {
+          "package_name": "com.example.monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731487690268-u748041aa3gjqolt33392jbjgo29t1f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monitoring",
+            "certificate_hash": "ccdbc8c2a6186d2b75e81ede7ecf6520db714489"
+          }
+        },
+        {
+          "client_id": "731487690268-9f89medcem6cq9k5f45su9oncikurfju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0Lh7Gkej0sIo7SJkZ6PqoLpJK0iUwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731487690268-9f89medcem6cq9k5f45su9oncikurfju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
