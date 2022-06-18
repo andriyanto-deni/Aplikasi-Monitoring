@@ -2,8 +2,8 @@
 #include <FirebaseArduino.h>
 #include "DHT.h"
 
-#define FIREBASE_HOST "latihan-upload-data-nodemcu-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "aMVGX0HcMVJVWpgCNN9pWQhM2gTYX8fu9mp9oFvu"
+#define FIREBASE_HOST "latihan-XXXXXXXXXXXXXXXXXXX-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "aMVGX0HcMXXXXXXXXXXXXXXXXXXXXX8fu9mp9oFvu"
 #define WIFI_SSID "Alfamart"
 #define WIFI_PASSWORD "00000000"
 //#define WIFI_SSID "Testing"
